@@ -1,10 +1,8 @@
 # Hey 👋, I'm Michael
-___
 I'm currently a software engineer at [OpenVPN](https://openvpn.net/) and formerly at [Stripo.email](https://stripo.email/).
 
 
 ## Some of my pet projects 
-___
 
 
 ### [Spring Undo](https://github.com/michaelfmnk/spring-undo)
