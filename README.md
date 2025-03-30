@@ -17,8 +17,10 @@ A fun Spring Boot starter project that provides detailed descriptions for your s
 ### [RomeSpeak - Latin Phrasebook](https://github.com/michaelfmnk/RomeSpeak)
 An educational app for learning and exploring Latin phrases. Features include a collection of expressions with English translations, a favorites system, and search functionality.
 
-### [Send To Kindle Telegram Bot](https://github.com/michaelfmnk/send-to-kindle-telegram-bot)
+### [Wikisłownik for Raycast](https://github.com/michaelfmnk/wikislownik)
+A Raycast extension for the Polish Wiktionary (Wikisłownik) that allows you to quickly search and view dictionary entries: definition, images & conjugation tables.
 
+### [Send To Kindle Telegram Bot](https://github.com/michaelfmnk/send-to-kindle-telegram-bot)
 A self-hosted Telegram bot that converts and sends documents to your Kindle using Calibre for conversion.
 
 ### [Flights Around Me](https://github.com/michaelfmnk/flights-around)
